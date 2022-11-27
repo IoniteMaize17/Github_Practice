@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Some text (changed on git web). And another one. And another one to the file.
+=======
+Some text. And another one. And another one to the file (changed on PC).
+>>>>>>> Stashed changes
