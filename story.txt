@@ -1,1 +1,1 @@
-Some text (changed). And another one. And another one to the file.
+Some text. And another one. And another one to the file.
